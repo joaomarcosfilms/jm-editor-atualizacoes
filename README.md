@@ -2,4 +2,4 @@
 
 Arquivos servidos ao painel do plugin. Todo pacote é assinado (Ed25519); sem a assinatura correta o painel recusa a instalação.
 
-Versão atual: 1.2.0
+Versão atual: 1.3.0
